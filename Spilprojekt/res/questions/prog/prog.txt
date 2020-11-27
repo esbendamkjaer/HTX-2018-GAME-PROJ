@@ -1,0 +1,10 @@
+Hvad er en metode i Python?
+En funktion der tilhoerer en klasse
+En funktion der star udenfor en klasse
+En type kontrolstruktur
+En loekke
+Hvad er en funktion i Python?
+En funktion der ikke er medlem af en klasse
+En funktion der er tilhoerer en klasse
+En linje kode
+En matematisk formel

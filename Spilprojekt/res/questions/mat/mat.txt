@@ -1,0 +1,30 @@
+Hvad er 2 + 2?
+4
+8
+12
+16
+Hvad er 2 * 3?
+6
+543
+32
+123
+Hvad er 6 / 3?
+2
+5
+6
+7
+Hvad er 2 ^ 3?
+8
+16
+64
+128
+Hvad er origo?
+Et koordinatsystems nulpunkt
+En cirkels centerpunkt
+Tyngdepunktet af en geometrisk form
+En spiselig kiks med creme i midten
+Hvordan lyder Pythagoras formel?
+katete^2+katete^2=hypotenuse^2
+fisk+dild=hest
+a+b=c
+y=ax+b

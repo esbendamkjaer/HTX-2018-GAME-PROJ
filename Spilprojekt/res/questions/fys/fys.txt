@@ -1,0 +1,15 @@
+Hele det synlige spektrum ligger i intervallet
+400 - 700nm
+200 - 500nm
+300 - 600nm
+500 - 800nm
+Hvad er d i gitterligningen?
+Afstanden mellem to nabospalter
+Antal spalter pr. mm
+Afstanden fra gitteret til vaeggen
+Afstanden mellem to ens ordener
+Hvordan ser boelgeligningen ud?
+v=lambda*f
+f=1/T
+n=c/v
+M=m/n
